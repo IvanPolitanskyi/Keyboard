@@ -25,6 +25,7 @@ h1 {
     padding: 5px;
     border-radius: 4px;
     width: 692px;
+    position: relative;
 }
 
 .line::after {
@@ -53,7 +54,7 @@ h1 {
 }
 
 .backspace {
-    width: auto;
+    width: 122px;
 }
 
 .tab, .capslock {
