@@ -47,3 +47,15 @@ h1 {
 .backspace {
     width: auto;
 }
+
+.tab, .capslock {
+    width: 60px;
+}
+
+.leftshift {
+    width: 72px;
+}
+
+.rightshift {
+    width: 90px;
+}
