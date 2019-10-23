@@ -42,6 +42,7 @@ h1 {
     padding: 4px;
     text-align: center;
     line-height: 32px;
+    text-transform: uppercase;
 }
 
 .backspace {
@@ -58,4 +59,22 @@ h1 {
 
 .rightshift {
     width: 90px;
+}
+
+.leftctrl, .rightctrl {
+    width: 69px;
+}
+
+.space {
+    width: 248px;
+}
+
+.window {
+    width: 20px;
+    padding-top: 5px;
+}
+
+.letter-key {
+    font-size: 10px;
+    line-height: 100%;
 }
