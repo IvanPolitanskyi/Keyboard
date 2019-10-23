@@ -26,6 +26,8 @@ h1 {
     border-radius: 4px;
     width: 692px;
     position: relative;
+    margin: 0 auto; /*Задавая автоматические отступы по бокам я*/
+    /*переместить блок на центр.*/
 }
 
 .line::after {
