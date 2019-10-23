@@ -24,6 +24,7 @@ h1 {
     border: 1px solid slategrey;
     padding: 5px;
     border-radius: 4px;
+    width: 692px;
 }
 
 .line::after {
@@ -43,6 +44,12 @@ h1 {
     text-align: center;
     line-height: 32px;
     text-transform: uppercase;
+}
+
+.key:hover {
+    color: #fff;
+    background: slategrey;
+    cursor: pointer;
 }
 
 .backspace {
@@ -77,4 +84,12 @@ h1 {
 .letter-key {
     font-size: 10px;
     line-height: 100%;
+}
+
+.enter {
+    position: absolute;
+    right: 5px;
+    top: 51px;
+    width: 56px;
+    height: 87px;
 }
